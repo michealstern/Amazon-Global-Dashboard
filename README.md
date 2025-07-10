@@ -33,4 +33,5 @@ Sample e-commerce sales data (Amazon) across multiple countries and categories. 
 ✨ This dashboard demonstrates how Power BI can turn raw global sales data into meaningful insights for strategic growth and performance tracking.
 
 🖼️ Screenshots / Demos:
-Add dashboard screenshots here
+Add dashboard screenshots here:
+https://github.com/michealstern/Amazon-Global-Dashboard/blob/main/Dashboard.jpg
