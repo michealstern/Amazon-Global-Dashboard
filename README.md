@@ -34,4 +34,4 @@ Sample e-commerce sales data (Amazon) across multiple countries and categories. 
 
 🖼️ Screenshots / Demos:
 Add dashboard screenshots here:
-https://github.com/michealstern/Amazon-Global-Dashboard/blob/main/Dashboard.jpg
+(https://github.com/michealstern/Amazon-Global-Dashboard/blob/main/Dashboard.jpg)
